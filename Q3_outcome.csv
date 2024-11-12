@@ -1,0 +1,5 @@
+,CustomerID,FirstName,LastName,Email,DOB,Phone,Order_Id,OrderNo
+0,1,John,Smith,John.Smith@yahoo.com,1968-02-04,626 222-2222,3,22456
+1,1,John,Smith,John.Smith@yahoo.com,1968-02-04,626 222-2222,4,24562
+2,3,Paula,Brown,pb@herowndomain.org,1978-05-24,416 323-3232,1,77895
+3,3,Paula,Brown,pb@herowndomain.org,1978-05-24,416 323-3232,2,44678
